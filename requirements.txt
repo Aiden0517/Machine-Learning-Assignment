@@ -1,6 +1,5 @@
 setuptools==75.0.0                       
-python-dateutil                  
-python==3.8.18               
+python-dateutil                 
 wheel           
 matplotlib                        
 numpy                     
