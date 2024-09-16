@@ -1,5 +1,6 @@
 setuptools==75.0.0                       
 python-dateutil                  
+python==3.8.18               
 wheel           
 matplotlib                        
 numpy                     
@@ -7,7 +8,6 @@ packaging
 pandas                        
 pip
 plotly                       
-python               
 scikit-learn                    
 scipy                       
 seaborn                      
